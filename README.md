@@ -1,0 +1,2 @@
+# SparkMeterApplication
+Application for SparkMeter
